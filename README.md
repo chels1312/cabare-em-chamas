@@ -1,9 +1,8 @@
 # cabare-em-chamas 
+# &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 𝄞
 <br>
-𝄞
-<br>
-<body align="center">
-  <img scr="https://www.meme4fun.com/images/04a72ff9-2382-4fb5-8347-c6d438ff9f95.jpg">
+<body>
+<img src="https://www.meme4fun.com/images/04a72ff9-2382-4fb5-8347-c6d438ff9f95.jpg" alt="taca fogo em tudo!" align="center"></img>
 </body>
 <br>
   
@@ -18,9 +17,9 @@
     </a>
   </p>
 
-      <p class="ProfileHeaderCard-bio u-dir" dir="ltr">TRIGGER WARNING: sexo, drogas e comunismo</p>
+      <p>TRIGGER WARNING: sexo, drogas e comunismo</p>
 
-      <div class="ProfileHeaderCard-url">
+      <div>
         <span class="Icon Icon--url Icon--medium" aria-hidden="true" role="presentation"></span>
         <span class="ProfileHeaderCard-urlText u-dir">  <a class="u-textUserColor" target="_blank" rel="me nofollow noopener" href="https://t.co/HAtK6864qx" title="https://medium.com/@sinteses">
     medium.com/@sinteses
@@ -28,3 +27,4 @@
 
 </span>
       </div>
+</p>
